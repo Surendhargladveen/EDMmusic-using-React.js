@@ -4,4 +4,3 @@ I created another folder for the vector files. If you don't move the files, the 
 
 
 
-![Uploading EDMusic.jpg…]()
