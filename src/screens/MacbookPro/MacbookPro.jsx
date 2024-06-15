@@ -661,7 +661,7 @@ export const MacbookPro = () => {
         </div>
         <div className="absolute w-[1675px] h-[116px] top-[3745px] left-[27px] bg-[#191919] rounded-[18px]">
           <p className="absolute w-[1084px] top-[33px] left-9 [font-family:'Gill_Sans_MT-Regular',Helvetica] font-normal text-white text-xl tracking-[0] leading-[normal]">
-            Wynk Music is the one-stop music app for the latest to the greatest songs that you love. Play your favourite
+            EDMusic is the one-stop music app for the latest to the greatest songs that you love. Play your favourite
             music online for free or download mp3. Enjoy from over 22 Million Hindi, English, Bollywood, Regional,
             Latest, Old songs and more.
           </p>
@@ -684,7 +684,7 @@ export const MacbookPro = () => {
           <p className="absolute w-[549px] top-[27px] left-[38px] [font-family:'Gill_Sans_MT-Regular',Helvetica] font-normal text-white text-[23px] tracking-[0] leading-[normal]">
             Subscribe now to unlock the full potential of our exclusive EDM collection in Dolby 8D audio. Experience the
             immersive soundscapes and emotional waves that will elevate your listening experience to new heights. Join
-            us at [Your Music Website] and dive into a world where the music truly surrounds you. Don’t miss out—make
+            us at "EDMmusic" and dive into a world where the music truly surrounds you. Don’t miss out—make
             your subscription today.
           </p>
         </div>
